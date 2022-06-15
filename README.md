@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaptainTron.
-- 👀 I’m interested in coding & Hacking.     
+- 👀 I’m interested in coding.     
 - 🌱 I’m currently learning Coding.
 - 💞️ I’m looking to collaborate to the team that suits me.
 - 📫 How to reach me tron21vaibhav@gmail.com or at my Instagram ID @21captain11.
