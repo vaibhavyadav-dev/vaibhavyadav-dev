@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CaptainTron.
-- 👀 I’m interested in coding.     
+- 👋 Hi, I’m Vaibhav Yadav.
+- 👀 I’m interested in coding and Web-Development.     
 - 🌱 I’m currently learning Coding.
 - 💞️ I’m looking to collaborate to the team that suits me.
-- 📫 How to reach me tron21vaibhav@gmail.com or at my Instagram ID @21captain11.
+- 📫 Reach me tron21vaibhav@gmail.com or at my Instagram ID @penandtablett.
 
 <!---
 CaptainTron/CaptainTron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
