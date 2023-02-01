@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Vaibhav Yadav.
 - 👀 I’m interested in coding and Web-Development.     
 - 🌱 I’m currently learning Coding.
-- 💞️ I’m looking to collaborate to the team that suits me.
+- 💞️ I’m looking to collaborate to the team.
 - 📫 Reach me tron21vaibhav@gmail.com or at my Instagram ID @penandtablett.
 
 <!---
