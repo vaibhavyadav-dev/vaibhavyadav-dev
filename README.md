@@ -1,9 +1,9 @@
 [![@captain_tron's Holopin board](https://holopin.me/captain_tron)](https://holopin.io/@captain_tron)
 
 - 👋 Hi, I’m Vaibhav Yadav.
-- 👀 I’m interested in coding and Web-Development.     
-- 🌱 I’m currently learning Coding.
-- 💞️ I’m looking to collaborate to the team.
+- 👀 I’m interested in Competative Programming and Web-Development.     
+- 🌱 Exploring 🌟🌟.
+- 💞️ I’m looking to collaborate with the team.
 - 📫 Reach me tron21vaibhav@gmail.com or at my Instagram ID @penandtablett.
 
 <!---
