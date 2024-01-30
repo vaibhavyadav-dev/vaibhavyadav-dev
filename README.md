@@ -1,6 +1,6 @@
 [![@captain_tron's Holopin board](https://holopin.me/captain_tron)](https://holopin.io/@captain_tron)
 # 💫 About Me:
-I'm currently working on Baavlibuch<br>I'm looking to collaborate on Hackthons, and projects.<br>I'm currently exploring Software engineering.
+I'm currently working at Baavlibuch<br>I'm looking to collaborate on Hackthons, and projects.<br>I'm currently exploring Software engineering.
 
 
 # 💻 Tech Stack:
