@@ -1,6 +1,7 @@
 [![@captain_tron's Holopin board](https://holopin.me/captain_tron)](https://holopin.io/@captain_tron)
 # 💫 About Me:
-I'm currently working at Baavlibuch<br>I'm looking to collaborate on Hackthons, and projects.<br>I'm currently exploring Software engineering.
+A Webdeveloper who loves to explore Software developement.<br>
+I'm looking to collaborate on Hackthons, and projects.
 
 
 # 💻 Tech Stack:
