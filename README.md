@@ -1,7 +1,7 @@
 [![@captain_tron's Holopin board](https://holopin.me/captain_tron)](https://holopin.io/@captain_tron)
 # 💫 About Me:
 A Webdeveloper who loves to explore Software developement.<br>
-I'm looking to collaborate on Hackthons, and projects.
+I'm looking to collaborate on hackathons, and projects.
 
 
 # 💻 Tech Stack:
