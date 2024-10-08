@@ -6,13 +6,13 @@ I'm currently pursuing my B.Tech in Information Technology, with a deep passion 
 
 ### 🔭 **What I'm Currently Working On**
 - 🚀 Creating resilient APIs with **Node.js**, backed by rate-limiting strategies and deployed using **Kubernetes**.
-- ⚙️ Building scalable backend systems using **Golang**, **Kafka**, and **Docker**.
+- ⚙️ Building scalable backend systems using **Golang**, **Redis**, **Nodejs**, **PostgreSQL**, and **Docker**.
 - 🔍 Exploring **NetworkX** to analyze social networks and graph-based data structures.
 
 ### 🌱 **What I'm Learning**
+- Sharpening my competitive programming skills to get better at **Data Structures and Algorithms**.
 - Deep diving into **Kubernetes** and **DevOps** tools for automation, orchestration, and scaling.
 - Enhancing my knowledge of **Data Security** to ensure the systems I build are as secure as they are functional.
-- Sharpening my competitive programming skills to get better at **Data Structures and Algorithms**.
 
 ### 🔧 **Tech Stack I Work With**
 - **Languages:** C++, JavaScript, Golang, Python  
@@ -22,9 +22,9 @@ I'm currently pursuing my B.Tech in Information Technology, with a deep passion 
 - **Other Tools:** Git, Nginx, Kafka, NetworkX
 
 ### 🤔 **Fun Facts About Me**
-- I’m obsessed with making things work smoothly behind the scenes—whether it’s writing an efficient backend or automating deployment pipelines.
+- I’m obsessed with making things work smoothly behind the scenes — whether it’s writing an efficient backend or automating deployment pipelines.
 - My go-to OS is **Linux**, and I love the flexibility it offers.
-- Currently leveling up my Kubernetes and cloud skills—there’s so much to explore!
+- Currently leveling up my Kubernetes and cloud skills — there’s so much to explore!
 
 ### 📊 **GitHub Stats**
 ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavyadav-dev&show_icons=true&theme=radical)
