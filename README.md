@@ -33,4 +33,6 @@ I'm currently pursuing my B.Tech in Information Technology, with a deep passion 
 
 💬 **Let’s Connect!**  
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vaibhav-yadav-4397351b9)!  
-I’m always excited to collaborate, learn, and build amazing things together!
+I’m always excited to collaborate, learn, and build amazing things together!  
+
+![](https://komarev.com/ghpvc/?username=vaibhavyadav-dev)
