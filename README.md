@@ -1,5 +1,5 @@
 [![@captain_tron's Holopin board](https://holopin.me/captain_tron)](https://holopin.io/@captain_tron)
-# 👋 Hi there, I'm Vaibhav Yadav!
+# 👋 Hi, I'm Vaibhav Yadav!
 
 ## 🧑‍💻 Backend Developer | Aspiring Software Engineer | DevOps Enthusiast | Tech Explorer
 I'm currently pursuing my B.Tech in Information Technology, with a deep passion for building systems that are efficient, scalable, and secure. My journey is all about learning, experimenting, and growing as a developer. Backend development and DevOps excite me the most, and I'm always eager to solve complex problems with clean, performant code.
@@ -32,7 +32,5 @@ I'm currently pursuing my B.Tech in Information Technology, with a deep passion 
 ---
 
 💬 **Let’s Connect!**  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vaibhav-yadav-4397351b9)! I’m always excited to collaborate, learn, and build amazing things together!
-
-🚀 **Check out my work on GitHub:** [vaibhavyadav-dev](https://github.com/vaibhavyadav-dev)
-
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vaibhav-yadav-4397351b9)!  
+I’m always excited to collaborate, learn, and build amazing things together!
