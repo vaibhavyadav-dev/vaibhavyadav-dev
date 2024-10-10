@@ -6,7 +6,7 @@ I'm currently pursuing my B.Tech in Information Technology, with a deep passion 
 Apart from Development I've also keen interest on Competitive Programming, building logic and solving real world problems on same, although I'm still a newbie in this field but my dedication and consistency will take me to top percent.
 
 ### 🔭 **What I'm Currently Working On**
-- 🚀 Creating resilient APIs with **Node.js**, backed by rate-limiting strategies and deployed using **Kubernetes**.
+- 🚀 Creating resilient APIs with **Node.js**, **Golang**, backed by rate-limiting strategies and deployed using **Kubernetes**, **Docker** and **Redis**.
 - ⚙️ Building scalable backend systems using **Golang**, **Redis**, **Nodejs**, **PostgreSQL**, and **Docker**.
 - 🔍 Exploring **NetworkX** to analyze social networks and graph-based data structures.
 
@@ -33,7 +33,8 @@ Apart from Development I've also keen interest on Competitive Programming, build
 ---
 
 💬 **Let’s Connect!**  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vaibhav-yadav-4397351b9)!  
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/vaibhav-yadav-4397351b9)! and Explore my repos below!  
 I’m always excited to collaborate, learn, and build amazing things together!  
+
 
 ![](https://komarev.com/ghpvc/?username=vaibhavyadav-dev)
