@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Vaibhav Yadav!
 
 ## 🧑‍💻 Backend Developer | Aspiring Software Engineer | DevOps Enthusiast | Tech Explorer
-I'm currently pursuing my B.Tech in Information Technology, with a deep passion for building systems that are efficient, scalable, and secure. My journey is all about learning, experimenting, and growing as a developer. Backend development and DevOps excite me the most, and I'm always eager to solve complex problems with clean, and performant code.  
+I'm currently pursuing my B.Tech in Information Technology, with a deep passion for building systems that are efficient, scalable, and secure. My journey is all about learning, experimenting, and growing as a developer. Backend development, Cloud Computing, and DevOps excite me the most, and I'm always eager to solve complex problems with clean, and performant code.  
 Apart from Development I've also keen interest on Competitive Programming, building logic and solving real world problems on same, although I'm still a newbie in this field but my dedication and consistency will take me to top percent.
 
 ### 🔭 **What I'm Currently Working On**
