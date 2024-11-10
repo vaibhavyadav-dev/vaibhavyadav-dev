@@ -6,6 +6,7 @@ I'm currently pursuing my B.Tech in Information Technology, with a deep passion 
 Apart from Development I've also keen interest on Competitive Programming, building logic and solving real world problems on same, although I'm still a newbie in this field but my dedication and consistency will take me to top percent.
 
 ### 🔭 **What I'm Currently Working On**
+- 🔍 Exploring Deep Learning, particularly focusing on neural network architectures like CNNs (Convolutional Neural Networks) for image processing, RNNs (Recurrent Neural Networks) for sequence prediction, and Transformers for natural language processing tasks. Learning to utilize frameworks like TensorFlow and PyTorch for building and deploying models.
 - 🚀 Creating resilient APIs with **Node.js**, **Golang**, backed by rate-limiting strategies and deployed using **Kubernetes**, **Docker** and **Redis**.
 - ⚙️ Building scalable backend systems using **Golang**, **Redis**, **Nodejs**, **PostgreSQL**, and **Docker**.
 - 🔍 Exploring **NetworkX** to analyze social networks and graph-based data structures.
