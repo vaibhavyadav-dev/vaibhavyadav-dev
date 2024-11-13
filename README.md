@@ -6,7 +6,7 @@ I'm currently pursuing my B.Tech in Information Technology, with a deep passion 
 Apart from Development I've also keen interest on Competitive Programming, building logic and solving real world problems on same, although I'm still a newbie in this field but my dedication and consistency will take me to top percent.
 
 ### 🔭 **What I'm Currently Working On**
-- 🔍 Exploring Deep Learning, particularly focusing on neural network architectures like CNNs (Convolutional Neural Networks) for image processing, RNNs (Recurrent Neural Networks) for sequence prediction, and Transformers for natural language processing tasks. Learning to utilize frameworks like TensorFlow and PyTorch for building and deploying models.
+- 🔍 Exploring Deep Learning, particularly focusing on neural network architectures like CNNs (Convolutional Neural Networks) for image processing, RNNs (Recurrent Neural Networks) for sequence prediction, and Transformers for natural language processing tasks.
 - 🚀 Creating resilient APIs with **Node.js**, **Golang**, backed by rate-limiting strategies and deployed using **Kubernetes**, **Docker** and **Redis**.
 - ⚙️ Building scalable backend systems using **Golang**, **Redis**, **Nodejs**, **PostgreSQL**, and **Docker**.
 
@@ -25,10 +25,7 @@ Apart from Development I've also keen interest on Competitive Programming, build
 ### 🤔 **Fun Facts About Me**
 - I’m obsessed with making things work smoothly behind the scenes — whether it’s writing an efficient backend or automating deployment pipelines.
 - My go-to OS is **Linux**, and I love the flexibility it offers.
-- Currently leveling up my Kubernetes and cloud skills — there’s so much to explore!
-
-### 📊 **GitHub Stats**
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavyadav-dev&show_icons=true&theme=radical)
+- Currently leveling up my devOps and cloud skills
 
 ---
 
