@@ -2,30 +2,29 @@
 # 👋 Hi, I'm Vaibhav Yadav!
 
 ## 🧑‍💻 Backend Developer | Aspiring Software Engineer | Deep Learning Enthusiast | Tech Explorer
-I'm currently pursuing my B.Tech in Information Technology, with a deep passion for building systems that are efficient, scalable, and secure. My journey is all about learning, experimenting, and growing as a developer. Backend development, Cloud Computing, and DevOps excite me the most, and I'm always eager to solve complex problems with clean, and performant code.  
+I'm currently pursuing my B.Tech in Information Technology, with a deep passion for building systems that are efficient, scalable, and secure. My journey is all about learning, experimenting, and growing as a developer. Deep Learning, Backend, Cloud, and DevOps excite me the most, and I'm always eager to solve complex problems with clean, and performant code.  
 Apart from Development I've also keen interest on Competitive Programming, building logic and solving real world problems on same, although I'm still a newbie in this field but my dedication and consistency will take me to top percent.
 
 ### 🔭 **What I'm Currently Working On**
-- 🔍 Exploring Deep Learning, particularly focusing on neural network architectures like CNNs (Convolutional Neural Networks) for image processing, RNNs (Recurrent Neural Networks) for sequence prediction, and Transformers for natural language processing tasks.
+- 🔍 Exploring Deep Learning, particularly focusing on neural network architectures like CNNs (Convolutional Neural Networks) for image processing and GANs (Generative Adversarial Networks) for generating realistic data and creative applications.
 - 🚀 Creating resilient APIs with **Node.js**, **Golang**, backed by rate-limiting strategies and deployed using **Kubernetes**, **Docker** and **Redis**.
-- ⚙️ Building scalable backend systems using **Golang**, **Redis**, **Nodejs**, **PostgreSQL**, and **Docker**.
+- ⚙️ Building scalable backend systems using **Golang**, **Python**, **Redis**, **Express.js**, **PostgreSQL**, **MongoDB**, **RabbitMQ**, **Nginx**, **Grafana**, **Prometheus**, **GithubActions**, and **Docker**.
 
 ### 🌱 **What I'm Learning**
 - Sharpening my competitive programming skills to get better at **Data Structures and Algorithms**.
-- Deep diving into **Kubernetes** and **DevOps** tools for automation, orchestration, and scaling.
+- Deep diving into **Deep Learning** and **DevOps**.
 - Enhancing my knowledge of **Data Security** to ensure the systems I build are as secure as they are functional.
 
 ### 🔧 **Tech Stack I Work With**
 - **Languages:** C++, JavaScript, Golang, Python  
-- **Backend Frameworks:** Node.js, Express.js, Django  
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, AWS  
-- **Databases:** MySQL, PostgreSQL, Elasticsearch  
-- **Other Tools:** Git, Nginx, Kafka, NetworkX
+- **Backend Frameworks:** Express.js, Django, Gin, Fastify  
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, AWS, Azure  
+- **Databases:** MongoDB, PostgreSQL, Elasticsearch  
+- **Other Tools:** Git, Nginx, Redis, RabbitMQ, Kafka, Github Actions, NetworkX
 
 ### 🤔 **Fun Facts About Me**
 - I’m obsessed with making things work smoothly behind the scenes — whether it’s writing an efficient backend or automating deployment pipelines.
 - My go-to OS is **Linux**, and I love the flexibility it offers.
-- Currently leveling up my devOps and cloud skills
 
 ---
 
