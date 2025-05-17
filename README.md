@@ -1,10 +1,10 @@
 [![@captain_tron's Holopin board](https://holopin.me/captain_tron)](https://holopin.io/@captain_tron)
 # Hi there 👋 I'm Vaibhav Yadav
+### Backend Engineer | GenAI | System Designer | Competitive Programmer  
 
-🎓 B.Tech | Backend Engineer | System Designer | Competitive Programmer  
 🔧 I build scalable systems, efficient APIs, and mission-driven projects like [Bharatseva+](https://github.com/BharatSeva) and [Owls](https://github.com/OWLs-Open-Web-and-Links)  
 🧠 Passionate about AI, DevOps, Secure Architecture & solving real-world problems  
-🌍 Dreaming big: tools that impact *millions* (hello UPI-level scale 🚀)
+🌍 Dreaming big: tools that impact *millions* (UPI-level scale 🚀)
 
 ---
 
@@ -22,7 +22,7 @@
 ### 📌 Featured Projects:
 - [Bharatseva+](https://github.com/BharatSeva) – Full-fledged microservices healthcare system with async queues & Redis rate limiting
 - [vy-cli](https://github.com/vaibhavyadav-dev/vy-cli) – Custom command-line toolkit for backing up Linux config & simplifying Git workflows
-- [Owls](https://github.com/OWLs-Open-Web-and-Links) – AI-powered meme & content generator for real-time news (work-in-progress)
+- [Owls](https://github.com/OWLs-Open-Web-and-Links) – AI-powered meme & content generator for real-time news
 
 ---
 
